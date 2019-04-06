@@ -4,6 +4,6 @@ This is the first file in this repo
 
 ##Website Contents
 
-Here ar the files
+Here are the files
 
-1. infex.html
+1. index.html
